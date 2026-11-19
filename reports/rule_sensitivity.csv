@@ -1,0 +1,4 @@
+threshold,ads_flagged,median_detect_day,spend_after_detect_inr,purchases_after_detect,cpa_healthy_inr,cpa_after_detect_inr,extra_cost_inr,extra_cost_share_of_spend
+15%,102,14.0,2781764,4637,253,600,1573337,16.5%
+25%,100,16.0,2196832,3292,261,667,1344607,14.1%
+35%,92,17.5,1556615,2012,272,774,1025223,10.8%

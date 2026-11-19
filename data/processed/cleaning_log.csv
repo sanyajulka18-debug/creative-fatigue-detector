@@ -1,0 +1,5 @@
+step,rows,removed
+Raw rows,2843,0
+After removing duplicate rows,2815,28
+After removing zero-impression days,2801,14
+After removing ads with < 3 days,2795,6
